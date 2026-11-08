@@ -1,0 +1,118 @@
+[
+  {
+    "id": "gwangju",
+    "home": "https://www.gwangju.go.kr/"
+  },
+  {
+    "id": "donggu",
+    "home": "https://www.donggu.kr/index.es?sid=a1"
+  },
+  {
+    "id": "seogu",
+    "home": "https://www.seogu.gwangju.kr/"
+  },
+  {
+    "id": "namgu",
+    "home": "https://www.namgu.gwangju.kr/index.es?sid=a1"
+  },
+  {
+    "id": "bukgu",
+    "home": "https://bukgu.gwangju.kr/"
+  },
+  {
+    "id": "gwangsan",
+    "home": "https://www.gwangsan.go.kr/"
+  },
+  {
+    "id": "jeonnam",
+    "home": "https://www.jeonnam.go.kr/"
+  },
+  {
+    "id": "mokpo",
+    "home": "https://www.mokpo.go.kr/"
+  },
+  {
+    "id": "yeosu",
+    "home": "https://www.yeosu.go.kr/"
+  },
+  {
+    "id": "suncheon",
+    "home": "https://www.suncheon.go.kr/"
+  },
+  {
+    "id": "naju",
+    "home": "https://www.naju.go.kr/"
+  },
+  {
+    "id": "gwangyang",
+    "home": "https://www.gwangyang.go.kr/"
+  },
+  {
+    "id": "damyang",
+    "home": "https://www.damyang.go.kr/"
+  },
+  {
+    "id": "gokseong",
+    "home": "https://www.gokseong.go.kr/"
+  },
+  {
+    "id": "gurye",
+    "home": "https://www.gurye.go.kr/"
+  },
+  {
+    "id": "goheung",
+    "home": "https://www.goheung.go.kr/"
+  },
+  {
+    "id": "boseong",
+    "home": "https://www.boseong.go.kr/"
+  },
+  {
+    "id": "hwasun",
+    "home": "https://www.hwasun.go.kr/"
+  },
+  {
+    "id": "jangheung",
+    "home": "https://www.jangheung.go.kr/"
+  },
+  {
+    "id": "gangjin",
+    "home": "https://www.gangjin.go.kr/"
+  },
+  {
+    "id": "haenam",
+    "home": "https://www.haenam.go.kr/"
+  },
+  {
+    "id": "yeongam",
+    "home": "https://www.yeongam.go.kr/"
+  },
+  {
+    "id": "muan",
+    "home": "https://www.muan.go.kr/"
+  },
+  {
+    "id": "hampyeong",
+    "home": "https://www.hampyeong.go.kr/"
+  },
+  {
+    "id": "yeonggwang",
+    "home": "https://www.yeonggwang.go.kr/"
+  },
+  {
+    "id": "jangseong",
+    "home": "https://www.jangseong.go.kr/"
+  },
+  {
+    "id": "wando",
+    "home": "https://www.wando.go.kr/"
+  },
+  {
+    "id": "jindo",
+    "home": "https://www.jindo.go.kr/"
+  },
+  {
+    "id": "shinan",
+    "home": "https://www.shinan.go.kr/"
+  }
+]

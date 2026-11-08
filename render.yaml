@@ -13,3 +13,4 @@ services:
         value: "22"
       - key: COLLECTOR_TOKEN
         sync: false
+
